@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module exem_project {
-}
